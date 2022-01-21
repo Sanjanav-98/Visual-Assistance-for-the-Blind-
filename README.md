@@ -1,5 +1,5 @@
 # Visual Assistance for the Blind
-This project was carried out in the months of Jan-May 2020.
+This project was carried out in the months of Jan-May 2020 and has been published in INDICON 2020 conference (https://ieeexplore.ieee.org/document/9342481)
 
 ## Description
 The estimated number of visually impaired people in the world is 285 million in which 39 million people are blind and 246 million people have low vision. This project aims at assisting visually impaired people through DL by providing a system which can describe the surrounding as well as answer questions about the surrounding of the user.
